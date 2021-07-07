@@ -1,3 +1,11 @@
+
+# -----------------------------------------------------------
+# sqlite connection and functions
+# (C) 2021 Vasin Vsevolod, Novokuznetsk, Russia
+# email vsevolod.vasin.gm@gmail.com
+# -----------------------------------------------------------
+
+
 import sqlite3
 
 class SQLighter:
