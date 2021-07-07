@@ -1,3 +1,10 @@
+# -----------------------------------------------------------
+# geekbrains parser
+# (C) 2021 Vasin Vsevolod, Novokuznetsk, Russia
+# email vsevolod.vasin.gm@gmail.com
+# -----------------------------------------------------------
+
+
 import urllib3
 from bs4 import BeautifulSoup
 from sqlighter import SQLighter
