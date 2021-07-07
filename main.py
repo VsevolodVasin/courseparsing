@@ -1,3 +1,10 @@
+# -----------------------------------------------------------
+# main parser file
+# (C) 2021 Vasin Vsevolod, Novokuznetsk, Russia
+# email vsevolod.vasin.gm@gmail.com
+# -----------------------------------------------------------
+
+
 import sys
 from design import Ui_MainWindow
 from PyQt5.QtWidgets import QApplication, QMainWindow
