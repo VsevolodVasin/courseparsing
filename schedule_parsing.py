@@ -1,3 +1,11 @@
+# -----------------------------------------------------------
+# scheduled parser
+# (C) 2021 Vasin Vsevolod, Novokuznetsk, Russia
+# email vsevolod.vasin.gm@gmail.com
+# -----------------------------------------------------------
+
+
+
 from sqlighter import SQLighter
 from parser1 import parser1 as gb
 from parser2 import parser2 as sb
